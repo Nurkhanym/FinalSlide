@@ -1,0 +1,134 @@
+    * {
+        margin: 0 auto;
+        position: relative;
+        max-width: 1260px;
+    }
+    
+    #section1 {
+        background-color: #BFD1E5;
+    }
+    
+    #section1 p {
+        width: 600px;
+        font-size: 20px;
+        font-family: 'Nunito', sans-serif;
+        justify-content: center;
+        margin-top: 20px;
+        word-spacing: 5px;
+        margin-left: 260px;
+    }
+    
+    #section1 h1 {
+        margin-left: 260px;
+        font-size: 50px;
+        font-family: 'Ubuntu Condensed', sans-serif;
+        margin-top: 20px;
+    }
+    
+    #section1 img {
+        margin-left: 900px;
+        margin-top: -150px;
+        width: 300px;
+    }
+    
+    #section2 {
+        background-color: #BFD1E5;
+    }
+    
+    #section2 h1 {
+        margin-left: 780px;
+        font-size: 50px;
+        font-family: 'Ubuntu Condensed', sans-serif;
+        margin-top: 20px;
+        padding-bottom: 50px;
+    }
+    
+    #section2 #one {
+        border-radius: 50%;
+    }
+    
+    .col-xl-1 {
+        margin-left: 100px;
+    }
+    
+    .col-xl-1 h4 {
+        margin-left: 10px;
+        font-size: 20px;
+        width: 300px;
+        margin-top: 10px;
+        word-spacing: 8px;
+        font-family: 'Nunito', sans-serif;
+        letter-spacing: 2px;
+    }
+    
+    #two {
+        border-radius: 50%;
+        margin-left: 80px;
+    }
+    
+    #flower1 {
+        margin-left: -100px;
+    }
+    
+    .col-xl-2 h4 {
+        width: 300px;
+        word-spacing: 8px;
+        letter-spacing: 2px;
+        font-size: 20px;
+        margin-left: 110px;
+        margin-top: 10px;
+        font-family: 'Nunito', sans-serif;
+        letter-spacing: 2px;
+    }
+    
+    #section3 {
+        background-color: #BFD1E5;
+    }
+    
+    #three {
+        border-radius: 50%;
+    }
+    
+    .col-xl-3 {
+        margin-left: 160px;
+    }
+    
+    .col-xl-3 h4 {
+        margin-top: 10px;
+        width: 300px;
+        word-spacing: 8px;
+        letter-spacing: 2px;
+        font-size: 20px;
+        margin-left: 50px;
+        font-family: 'Nunito', sans-serif;
+        letter-spacing: 2px;
+    }
+    
+    #section3 h1 {
+        margin-left: 260px;
+        letter-spacing: 3px;
+        font-family: 'Ubuntu Condensed', sans-serif;
+    }
+    
+    #section3 p {
+        width: 800px;
+        margin-top: 20px;
+        margin-left: 260px;
+        font-size: 20px;
+        font-family: 'Bai Jamjuree', sans-serif;
+    }
+    
+    #flower {
+        margin-left: -50px;
+        padding-bottom: 30px;
+    }
+    
+    .btn {
+        margin-left: 1000px;
+    }
+    
+    #details {
+        margin-left: 450px;
+        margin-top: -50px;
+        width: 300px;
+    }
